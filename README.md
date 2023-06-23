@@ -1,2 +1,2 @@
 # IBM-Data-Science
-Capstone
+# Capstone Course/Project
